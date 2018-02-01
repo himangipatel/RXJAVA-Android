@@ -34,7 +34,7 @@
         });
 ```
   
-   **2. [map( )](http://reactivex.io/documentation/operators/map.html)** <br>
+   **3. [map( )](http://reactivex.io/documentation/operators/map.html)** <br>
    ## Uses <br>
    * takes in one value and outputs another value
  
