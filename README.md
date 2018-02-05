@@ -20,8 +20,8 @@
 ```
  **2. [from( )](http://reactivex.io/documentation/operators/from.html)** <br>
    ## Uses <br>
- * Observable.from(someList) will give you N emissions - each item in the list.
- 
+ * Observable.from(someList) will give you N emissions - each item in the list.<br>
+   Operator from(), which takes array of an object as input and emits the object one after another same as just()
 
    **Example**<br>
    
