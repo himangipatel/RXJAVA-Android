@@ -6,7 +6,8 @@
   ## Uses <br>
  * The Just operator converts an item into an Observable that emits that item.
  * Observable.just(someList) will give you 1 emission - a List.
-
+ 
+ Observable.just(getColorList()) will return Observable<List<String>> <br>
    **Example**
 ```java
   Observable.just(getColorList())
