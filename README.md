@@ -8,6 +8,7 @@
  * Observable.just(someList) will give you 1 emission - a List.
  
  Observable.just(getColorList()) will return Observable<List<String>> <br>
+  
    **Example**
 ```java
   Observable.just(getColorList())
